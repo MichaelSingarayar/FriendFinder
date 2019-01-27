@@ -1,0 +1,70 @@
+var friends = [
+    {
+    
+    "name":"Billy",
+    "photo":"https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTUxNTY3NTk2Mjg0NTUyMzc2/billy-eichner_gettyimages-876433788.jpg",
+    "scores":[
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+    ]
+},
+{
+      "name":"Ana",
+    "photo":"https://i7.lisimg.com/11915037/280full.jpg",
+    "scores":[
+        1,
+        3,
+        5,
+        1,
+        3,
+        5,
+        1,
+        3,
+        5,
+        1
+        
+      ]
+    },
+    {
+      "name":"Karen",
+    "photo":"https://m.media-amazon.com/images/M/MV5BMTQwMDQ0NDk1OV5BMl5BanBnXkFtZTcwNDcxOTExNg@@._V1_.jpg",
+    "scores":[
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ]
+    },
+    {
+      "name":"Idris",
+    "photo":"https://m.media-amazon.com/images/M/MV5BNzEzMTI2NjEyNF5BMl5BanBnXkFtZTcwNTA0OTE4OA@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "scores":[
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ]
+    }
+    ];
+
+  module.exports = friends;
